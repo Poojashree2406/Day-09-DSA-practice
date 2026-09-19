@@ -3,8 +3,8 @@ LeetCode 367
 Input: 14
 Output: false
 
-Input: 14
-Output: false
+Input: 16
+Output: true
 
 Input: 1
 Output: true
