@@ -290,8 +290,8 @@ Otherwise search the left half.
 Return -1 if the target is not found.
 Example
 Input:
-nums = [-1,0,3,5,9,12]
-target = 9
+nums = [-1,0,3,5,7,12]
+target = 7
 
 Output:
 4
