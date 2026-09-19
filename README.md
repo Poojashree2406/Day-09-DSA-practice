@@ -456,3 +456,52 @@ Time Complexity: O(n)
 Space Complexity: O(n)
 File
 Solution-07-977.java
+
+
+Concepts Learned
+1. Binary Search
+
+Binary Search reduces the search space by half at every iteration.
+
+It is useful when:
+
+The data is sorted.
+The search space has a monotonic property.
+The answer can be determined by checking a condition.
+
+Problems:
+
+367
+374
+704
+2. Binary Search on Answer
+
+Instead of searching directly through an array, Binary Search can be applied to the possible answer range.
+
+Problem:
+
+410
+
+The same concept is also used in:
+
+719
+3. Two Pointer Technique
+
+Two pointers allow an array to be processed efficiently without repeatedly scanning the same elements.
+
+Problems:
+
+75
+719
+977
+4. In-Place Array Processing
+
+LeetCode 75 demonstrates how an array can be rearranged without creating another array.
+
+This reduces extra memory usage.
+
+5. Greedy Validation
+
+LeetCode 410 uses a validation procedure to determine whether a candidate maximum sum is possible.
+
+This validation allows Binary Search on the answer.
