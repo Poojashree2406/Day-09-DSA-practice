@@ -84,7 +84,7 @@ The function provides three possible results:
 -1 → guessed number is higher than the target
  1 → guessed number is lower than the target
  0 → guessed number is correct
-Approach
+Approach:
 
 Binary Search is used because the possible numbers form a sorted search space.
 
