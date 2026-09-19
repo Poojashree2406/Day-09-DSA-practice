@@ -296,7 +296,8 @@ target = 7
 
 Output:
 4
-Complexity
+
+complexity:
 Time Complexity: O(log n)
 Space Complexity: O(1)
 File
