@@ -204,11 +204,12 @@ k = 2
 
 One possible split:
 
-[7,2,5] [10,8]
+[7,2] [5,10,8]
 
 Sums:
-14
-18
+9
+23
+
 
 The largest sum is:
 
