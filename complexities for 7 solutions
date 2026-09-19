@@ -1,1 +1,10 @@
+| Problem | Technique                              |      Time Complexity |   Space Complexity |
+| ------- | -------------------------------------- | -------------------: | -----------------: |
+| 367     | Binary Search                          |             O(log n) |               O(1) |
+| 374     | Binary Search                          |             O(log n) |               O(1) |
+| 75      | Dutch National Flag                    |                 O(n) |               O(1) |
+| 410     | Binary Search on Answer                |        O(n log(sum)) |               O(1) |
+| 704     | Binary Search                          |             O(log n) |               O(1) |
+| 719     | Sorting + Binary Search + Two Pointers | O(n log n + n log D) | Depends on sorting |
+| 977     | Two Pointers                           |                 O(n) |               O(n) |
 
