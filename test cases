@@ -1,7 +1,7 @@
 Test Cases
 LeetCode 367
-Input: 16
-Output: true
+Input: 14
+Output: false
 
 Input: 14
 Output: false
