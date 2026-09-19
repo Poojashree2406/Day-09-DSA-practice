@@ -6,5 +6,5 @@
 | 410     | Binary Search on Answer                |        O(n log(sum)) |               O(1) |
 | 704     | Binary Search                          |             O(log n) |               O(1) |
 | 719     | Sorting + Binary Search + Two Pointers | O(n log n + n log D) | Depends on sorting |
-| 977     | Two Pointer                           |                 O(n) |               O(n) |
+| 977     | Two Pointers                           |                 O(n) |               O(n) |
 
