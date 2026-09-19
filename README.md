@@ -1,5 +1,5 @@
 LeetCode Java Solutions – Searching, Sorting & Two Pointers
-📌 Overview
+ Overview:
 
 This repository contains 7 LeetCode solutions implemented in Java. The problems focus on important Data Structures and Algorithms concepts such as Binary Search, Two Pointers, Sorting, Binary Search on Answer, and Greedy validation.
 
