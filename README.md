@@ -28,6 +28,7 @@ Examples:
 16 = 4 × 4
 25 = 5 × 5
 36 = 6 × 6
+49 = 7 x 7
 
 The solution should determine the result without directly using a square-root function.
 
